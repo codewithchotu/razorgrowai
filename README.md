@@ -1,4 +1,4 @@
-# 🚀 RazorGrow AI
+# RazorGrow AI
 
 ### Turn Payment Data Into Revenue With an AI Growth Agent
 
